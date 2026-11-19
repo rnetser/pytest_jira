@@ -43,3 +43,10 @@ nosetests.xml
 # PyTest results
 results
 coverage.xml
+
+# Local Jira configuration (credentials) - see jira.cfg.example
+/jira.cfg
+
+# Local dev artefacts
+/.python-version
+/.trail/
